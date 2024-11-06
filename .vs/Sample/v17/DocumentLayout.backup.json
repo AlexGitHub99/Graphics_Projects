@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A18C8BB-2941-432F-8F8B-BEB51352D229}|Sample.vcxproj|C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\proj4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A18C8BB-2941-432F-8F8B-BEB51352D229}|Sample.vcxproj|solutionrelative:proj4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\keytime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:keytime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\proj3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:proj3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\setmaterial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:setmaterial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A18C8BB-2941-432F-8F8B-BEB51352D229}|Sample.vcxproj|C:\\USERS\\KINGA\\DOCUMENTS\\COMPUTER GRAPHICS\\SAMPLEWINDOWS\\SAMPLE2022\\SETLIGHT.CPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A18C8BB-2941-432F-8F8B-BEB51352D229}|Sample.vcxproj|solutionrelative:SETLIGHT.CPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\loadobjfile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loadobjfile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "proj4.cpp",
+              "DocumentMoniker": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\proj4.cpp",
+              "RelativeDocumentMoniker": "proj4.cpp",
+              "ToolTip": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\proj4.cpp",
+              "RelativeToolTip": "proj4.cpp",
+              "ViewState": "AgIAAK0DAAAAAAAAAAAAALQDAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T17:33:27.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "setlight.cpp",
+              "DocumentMoniker": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\setlight.cpp",
+              "RelativeDocumentMoniker": "setlight.cpp",
+              "ToolTip": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\setlight.cpp",
+              "RelativeToolTip": "setlight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T16:55:19.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "keytime.cpp",
+              "DocumentMoniker": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\keytime.cpp",
+              "RelativeDocumentMoniker": "keytime.cpp",
+              "ToolTip": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\keytime.cpp",
+              "RelativeToolTip": "keytime.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T10:34:30.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "proj3.cpp",
+              "DocumentMoniker": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\proj3.cpp",
+              "RelativeDocumentMoniker": "proj3.cpp",
+              "ToolTip": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\proj3.cpp",
+              "RelativeToolTip": "proj3.cpp",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAqwPgBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T10:16:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "setmaterial.cpp",
+              "DocumentMoniker": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\setmaterial.cpp",
+              "RelativeDocumentMoniker": "setmaterial.cpp",
+              "ToolTip": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\setmaterial.cpp",
+              "RelativeToolTip": "setmaterial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T04:26:10.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "loadobjfile.cpp",
+              "DocumentMoniker": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\loadobjfile.cpp",
+              "RelativeDocumentMoniker": "loadobjfile.cpp",
+              "ToolTip": "C:\\Users\\kinga\\Documents\\Computer Graphics\\SampleWindows\\Sample2022\\loadobjfile.cpp",
+              "RelativeToolTip": "loadobjfile.cpp",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAD0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T04:39:51.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
